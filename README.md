@@ -1,7 +1,7 @@
 # "Build a Random Quote Machine"
 ### Simpsons Random Quote Generator
 
-[View this project on the web]()
+[View this project on the web](https://dvislearning.github.io/simpsons-quote-machine/)
 
 The first project in Free Code Camp's [Front End Libraries certification track](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).
 
