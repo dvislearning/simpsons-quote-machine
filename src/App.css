@@ -19,6 +19,31 @@
   color: white;
 }
 
+#text {
+  max-width: 70%;
+}
+
+#author {
+  padding-top: 1.5%;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #95a5a6;
+}
+
+#new-quote {
+  margin-top: 1.5%;
+  background-color: #7bacdd;
+  color: #05182a;
+  font-weight: 600;
+  font-size: 1em;
+  padding: 0.80%;
+  border-radius: 3px;
+}
+
+#tweet-quote {
+  padding-top: 0.9%;
+}
+
 .App-link {
   color: #61dafb;
 }
